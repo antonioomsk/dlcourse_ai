@@ -1,2 +1,5 @@
 .DS_Store
 .venv
+/assignments/assignment1/data
+*.pyc
+*.ipynb
